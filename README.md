@@ -1,1 +1,1 @@
-# climate.sh
+# climate
